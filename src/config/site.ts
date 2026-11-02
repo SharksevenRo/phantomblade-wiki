@@ -72,7 +72,7 @@ export const site: SiteConfig = {
   // renders it as a mailto link.
   contactEmail: '',
   social: {
-    official: 'https://www.phantombladezero.com',
+    official: 'https://pbz.s-game.cn',
   },
   game: {
     name: 'Phantom Blade Zero',
