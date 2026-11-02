@@ -1,0 +1,267 @@
+{
+  "$schema": "../../docs/home.schema.json",
+  "site": {
+    "name": "影之刃零 Wiki",
+    "shortName": "影之刃零百科",
+    "description": "最全的影之刃零中文攻略站：Boss 打法、武器指南、流程攻略与配装心得，覆盖魂的 66 天之旅。每篇文章都标注最近核实日期。",
+    "tagline": "影之刃零玩家的一站式攻略站",
+    "legalNotice": "影之刃零 Wiki 为玩家自建的非官方攻略站，与灵游坊（S-GAME）无隶属或授权关系。"
+  },
+  "nav": {
+    "home": "首页",
+    "toggleTheme": "切换主题",
+    "menu": "菜单",
+    "close": "关闭",
+    "search": "搜索",
+    "language": "语言",
+    "guides": "攻略",
+    "bosses": "Boss",
+    "weapons": "武器",
+    "items": "物品"
+  },
+  "search": {
+    "placeholder": "搜索本站攻略…",
+    "noResults": "没有找到匹配内容",
+    "loadError": "搜索加载失败 — 请刷新页面后重试。"
+  },
+  "shared": {
+    "lastUpdated": "最近更新",
+    "publishedOn": "发布于",
+    "noArticles": "暂无文章，敬请期待！",
+    "defaultListDescription": "浏览全部{title}文章 — 流程攻略、技巧、排行榜与最新数据表，一站式查阅。",
+    "relatedArticles": "相关文章",
+    "onThisPage": "本页目录",
+    "browseAll": "浏览全部",
+    "viewAll": "查看全部",
+    "commentsHeading": "评论",
+    "share": "分享",
+    "copyLink": "复制链接",
+    "copied": "已复制！",
+    "consentText": "我们使用 Cookie 进行流量统计与广告投放，以维持本站免费运营。",
+    "accept": "接受",
+    "decline": "拒绝",
+    "consentTitle": "Cookie",
+    "bossCard": {
+      "title": "Boss 概览",
+      "hp": "生命值",
+      "weakness": "弱点",
+      "resistant": "抗性",
+      "location": "地点",
+      "level": "建议等级"
+    },
+    "codesTable": {
+      "active": "可用兑换码",
+      "expired": "已过期兑换码",
+      "reward": "奖励",
+      "expires": "有效期至",
+      "source": "来源",
+      "code": "兑换码"
+    },
+    "codesFaq": [
+      {
+        "question": "如何兑换兑换码？",
+        "answer": "打开游戏，点击右上角设置齿轮，在兑换码输入框中粘贴代码并确认。兑换码区分大小写。"
+      },
+      {
+        "question": "兑换码为什么会失效？",
+        "answer": "兑换码按官方设定的时间表过期（通常每月一轮或与版本节点绑定），部分码每账号限用一次。本页会定期重新验证。"
+      },
+      {
+        "question": "新兑换码多久发布一次？",
+        "answer": "新兑换码通常随每次大型更新发布。收藏本页，每次补丁后回来看看。"
+      },
+      {
+        "question": "兑换码会过期吗？",
+        "answer": "会 — 大多数兑换码都有有效期，标注在每个码旁。过期兑换码会移到下方已过期列表。"
+      }
+    ],
+    "possiblyOutdated": "本攻略最后核实于",
+    "outdatedNote": "— 游戏内容可能已有变动，部分细节可能过时。",
+    "prevArticle": "上一篇",
+    "nextArticle": "下一篇",
+    "minuteRead": "分钟阅读",
+    "wasThisHelpful": "对你有帮助吗？",
+    "feedbackThanks": "感谢反馈！",
+    "sponsoredLabel": "赞助内容",
+    "relatedVideos": "相关视频",
+    "gallery": "图集",
+    "gameVersion": "游戏版本",
+    "allTags": "全部标签",
+    "tagsIndexDescription": "按主题浏览所有文章。",
+    "articlesCount": "篇文章",
+    "recentTitle": "最近更新",
+    "recentDescription": "全站最新发布的文章与更新，按时间排序。",
+    "sponsorTitle": "支持本站",
+    "sponsorText": "如果这些攻略帮到了你，欢迎支持我们。",
+    "sponsorButton": "支持我们",
+    "notFoundSearchHint": "试试搜索本站内容。",
+    "notFoundPopular": "热门页面",
+    "notFoundTitle": "404 - 页面不存在",
+    "notFoundDescription": "你要找的页面不存在。",
+    "notFoundHeading": "页面不存在",
+    "notFoundText": "你要找的页面可能已被移除或暂时无法访问。",
+    "notFoundBackHome": "返回首页",
+    "galleryLabels": {
+      "close": "关闭",
+      "prev": "上一张",
+      "next": "下一张"
+    },
+    "quickAnswer": "快速答案",
+    "skipToContent": "跳到正文",
+    "tapToCopy": "点击复制",
+    "open": "打开",
+    "playVideo": "播放视频",
+    "watchVideo": "观看视频",
+    "gameTrailer": "宣传片",
+    "closeAd": "关闭广告",
+    "adLabel": "广告",
+    "codesFaqTitle": "兑换码常见问题",
+    "faqTitle": "常见问题",
+    "toggleTheme": "切换主题",
+    "themeToggleTitle": "浅色 / 深色 / AMOLED 纯黑",
+    "fallbackNotice": "已回退到英文",
+    "copyQuickAnswer": "复制快速答案",
+    "feedbackYes": "有帮助",
+    "feedbackNo": "没帮助",
+    "breadcrumbAria": "面包屑导航",
+    "wikiNavAria": "Wiki 导航",
+    "paginationAria": "文章分页"
+  },
+  "overview": {
+    "guides": {
+      "overviewTitle": "全部攻略",
+      "overviewDescription": "影之刃零攻略合集 — 新手入门、战斗机制、成长系统，以及魂穿越影境的 66 天流程指南。"
+    },
+    "bosses": {
+      "overviewTitle": "全部 Boss",
+      "overviewDescription": "影之刃零 Boss 攻略 — 攻击模式、阶段变化、弱点与打法，覆盖每一个挡在魂面前的武者与异兽。"
+    },
+    "weapons": {
+      "overviewTitle": "全部武器",
+      "overviewDescription": "影之刃零武器图鉴 — 影境中 30 余种刀、枪与奇门兵器，详解每把武器的招式与驾驭之道。"
+    },
+    "items": {
+      "overviewTitle": "全部物品",
+      "overviewDescription": "影之刃零物品与资源 — 饰品、升级材料，以及影境中一切隐藏之物的获取方式。"
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "影之刃零 Wiki — Boss 打法、武器指南与攻略",
+      "description": "最全的影之刃零中文攻略站：Boss 打法、武器指南、流程攻略与配装心得，覆盖魂的 66 天之旅。每篇文章都标注最近核实日期。"
+    },
+    "updates": {
+      "title": "最近更新"
+    },
+    "popular": {
+      "badge": "热门",
+      "title": "最多阅读",
+      "quickLinks": [
+        {
+          "label": "攻略",
+          "href": "/guides"
+        },
+        {
+          "label": "Boss",
+          "href": "/bosses"
+        },
+        {
+          "label": "武器",
+          "href": "/weapons"
+        }
+      ]
+    },
+    "closingCta": {
+      "title": "开启魂的旅程",
+      "description": "收藏本站，每次游戏更新后回来看看。",
+      "primary": "浏览全部",
+      "secondary": "加入社区"
+    },
+    "hero": {
+      "badge": "影之刃零",
+      "title": "影之刃零 Wiki",
+      "description": "魂最后 66 天的 Boss 打法、武器、配装与流程攻略。",
+      "ctaPrimary": "开始阅读",
+      "ctaSecondary": "浏览全部",
+      "videoId": ""
+    },
+    "start": {
+      "badge": "快速上手",
+      "title": "第一次来？",
+      "cards": [
+        {
+          "number": "1",
+          "title": "攻略",
+          "description": "浏览全部攻略",
+          "icon": "lucide:book-open",
+          "href": "/guides"
+        },
+        {
+          "number": "2",
+          "title": "Boss",
+          "description": "浏览全部 Boss",
+          "icon": "lucide:swords",
+          "href": "/bosses"
+        },
+        {
+          "number": "3",
+          "title": "武器",
+          "description": "浏览全部武器",
+          "icon": "lucide:sword",
+          "href": "/weapons"
+        }
+      ]
+    },
+    "explore": {
+      "title": "内容探索",
+      "description": "内容模块",
+      "modules": [
+        {
+          "order": 1,
+          "name": "新手入门",
+          "description": "循序渐进的上手路线",
+          "href": "/guides",
+          "displayType": "steps",
+          "highlights": [
+            {
+              "label": "第 1 步",
+              "detail": "读新手入门攻略",
+              "badge": "5 分钟"
+            },
+            {
+              "label": "第 2 步",
+              "detail": "选定第一把武器流派",
+              "badge": "10 分钟"
+            },
+            {
+              "label": "第 3 步",
+              "detail": "研究第一个 Boss 的招式",
+              "badge": "15 分钟"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "大家最常问的问题",
+      "items": []
+    }
+  },
+  "footer": {
+    "playGame": "游玩影之刃零",
+    "officialDiscord": "官方 Discord",
+    "officialYoutube": "官方 YouTube",
+    "officialTwitter": "官方 Twitter",
+    "officialReddit": "官方 Reddit",
+    "about": "关于本站",
+    "faq": "常见问题",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "copyright": "版权",
+    "contact": "联系我们",
+    "copyrightText": "© 2026 影之刃零 Wiki。保留所有权利。",
+    "community": "社区",
+    "legal": "法律信息"
+  }
+}
