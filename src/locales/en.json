@@ -16,7 +16,8 @@
     "language": "Language",
     "guides": "Guides",
     "bosses": "Bosses",
-    "weapons": "Weapons"
+    "weapons": "Weapons",
+    "items": "Items"
   },
   "search": {
     "placeholder": "Search the wiki...",
